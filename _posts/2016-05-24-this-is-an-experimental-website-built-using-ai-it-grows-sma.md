@@ -4,19 +4,20 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: This is anexperimental website built using AI. It grows smarter with time
-datePublished: '2016-05-24T07:50:15.046Z'
-dateModified: '2016-05-24T07:47:45.699Z'
+description: This is an experimental website built using AI. It grows smarter with time
+datePublished: '2016-05-24T07:57:40.812Z'
+dateModified: '2016-05-24T07:56:55.020Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-24-this-is-an-experimental-website-built-using-ai-it-grows-sma.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: this-is-an-experimental-website-built-using-ai-it-grows-sma/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa071d15-9e0c-4244-9aea-59ee78f1091a.png)
 
-This is an****experimental ****website built using AI. It grows smarter with time
+This is an ****experimental ****website built using AI. It grows smarter with time
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5ca79ab-c04c-468b-b943-c3196b0cbb5e.png)
